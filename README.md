@@ -85,6 +85,3 @@ Contact Us
 If you have questions about this Privacy Policy, contact:
 javonncatubag@gmail.com
 
-[DEVELOPER NAME]
-Email: [CONTACT EMAIL]
-Website: [WEBSITE URL]
