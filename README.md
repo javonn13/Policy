@@ -2,7 +2,7 @@
 Air Force PT App
 Privacy Policy
 
-Last Updated: [DATE]
+Last Updated: June 8, 2026
 
 All Apps I make(“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how our mobile application (“App”) collects, uses, and protects information.
 
