@@ -1,5 +1,5 @@
 # Policy
-Air Force PT App
+App
 Privacy Policy
 
 Last Updated: June 8, 2026
